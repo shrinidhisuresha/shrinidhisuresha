@@ -53,14 +53,18 @@
 ## Education
 
 - 📖 **Post Graduate Diploma in Artificial Intelegence and Machine learning**\
-📆 2013 - 2016\
+📆 2019 - 20\
 📍 **IIIT-B** - Bengaluru, India
 
-## Experience
-- 👨‍💻 **Associate Director - Data Science and Engineering**\
-📆 2014 - moment\
-📍 **Mavenir** - Bengaluru, India
+
+
+- 📖 **BE in Telecommunication**\
+📆 2005 - 2009\
+📍 **MVJCE** - Bengaluru, India
+
   
+  
+## Experience
 <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />
@@ -82,13 +86,27 @@
 <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Apache_Spark-%23DC322F.svg?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
-
   
 
-  
+- 👨‍💻 **Associate Director - Data Science and Engineering**\
+📆 2014 - moment\
+📍 **Mavenir** - Bengaluru, India
 
-  
+- 👨‍💻 **Software Engineer**\
+📆 2013 - 2014\
+📍 **CenturyLink** - Bengaluru, India
 
+- 👨‍💻 **Software Engineer**\
+📆 2011 - 2013\
+📍 **Huawei** - Bengaluru, India
+
+- 👨‍💻 **RSE**\
+📆 2010 - 2011\
+📍 **IBM** - Bengaluru, India
+
+- 👨‍💻 **Engineer**\
+📆 2009 - 2010\
+📍 **Tranquil Telecom** - Bengaluru, India
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
@@ -112,11 +130,6 @@
 
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
 <img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
-
--->
-
-</details>
-
 <details>
   <summary>📦 Packages</summary>
   
@@ -127,8 +140,13 @@
 | [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
-  
+  -->
 </details>
+
+
+</details>
+
+
   
 
 <!--
