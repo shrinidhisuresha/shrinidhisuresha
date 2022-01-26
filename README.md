@@ -26,9 +26,9 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=for-the-badge&logo=macos&logoColor=white%22" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <p align='center'>
