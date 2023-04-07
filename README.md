@@ -51,7 +51,11 @@
 
 
 ## Education
-
+- 📖 **Master of Science in Machine learning and Artificial Intelegence**\
+📆 2020 - 21\
+📍 **Liverpool John Morre Univercity** - London, UK
+  
+  
 - 📖 **Post Graduate Diploma in Artificial Intelegence and Machine learning**\
 📆 2019 - 20\
 📍 **IIIT-B** - Bengaluru, India
